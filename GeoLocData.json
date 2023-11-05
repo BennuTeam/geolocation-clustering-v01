@@ -1,0 +1,313 @@
+
+[
+  {
+    "parentLongitude": "59.584455",
+    "parentLatitude": "36.3410499", 
+    "parentId": 539
+  },
+ 
+  {
+    "parentLongitude": "59.5779392",
+    "parentLatitude": "36.3345434",
+    "parentId": 542
+  },
+ 
+  {
+    "parentLongitude": "59.57634915331671",  
+    "parentLatitude": "36.33578832929895",
+    "parentId": 548
+  },
+ 
+  {  
+    "parentLongitude": "59.58277589089211",
+    "parentLatitude": "36.34084318253476",
+    "parentId": 550
+  },
+  {
+    "parentLongitude": "59.57898259552641",
+    "parentLatitude": "36.34315260051864",
+    "parentId": 551
+  },
+  {
+    "parentLongitude": "59.56968040883668",
+    "parentLatitude": "36.34644695849282",
+    "parentId": 552
+  },
+ 
+  
+  {
+    "parentLongitude": "59.581824927180215",
+    "parentLatitude": "36.3409510004163",
+    "parentId": 582
+  },
+  {
+    "parentLongitude": "59.583464313615494",
+    "parentLatitude": "36.34275317153655",
+    "parentId": 583
+  },
+ 
+  {
+    "parentLongitude": "59.5827895",
+    "parentLatitude": "36.3420342",
+    "parentId": 585
+  },
+  
+ 
+  {
+    "parentLongitude": "59.5873898952098",
+    "parentLatitude": "36.34234249316892",
+    "parentId": 590
+  },
+  {
+    "parentLongitude": "59.5872253",
+    "parentLatitude": "36.3301072",
+    "parentId": 591
+  },
+  {
+    "parentLongitude": "59.5863057",
+    "parentLatitude": "36.3378334",
+    "parentId": 592
+  },
+  {
+    "parentLongitude": "59.587435516973926",
+    "parentLatitude": "36.34352604114272", 
+    "parentId": 593
+  },
+  {
+    "parentLongitude": "59.583404834607734",
+    "parentLatitude": "36.34191575938152",
+    "parentId": 594
+  },
+  {
+    "parentLongitude": "59.57367870796279",
+    "parentLatitude": "36.367729986121546",
+    "parentId": 595
+  },
+  {
+    "parentLongitude": "59.57570222303672",
+    "parentLatitude": "36.33765076202642",
+    "parentId": 596
+  },
+  {
+    "parentLongitude": "59.58125097588181",
+    "parentLatitude": "36.34286791475337",
+    "parentId": 597
+  },
+  {
+    "parentLongitude": "59.58513495085525",
+    "parentLatitude": "36.34029531763105",
+    "parentId": 598
+  },
+ 
+  {
+    "parentLongitude": "59.587038029500235",
+    "parentLatitude": "36.34381233159681",
+    "parentId": 602
+  },
+  {
+    "parentLongitude": "59.583428999553504",
+    "parentLatitude": "36.345654146073684",
+    "parentId": 603
+  },
+ 
+  {
+    "parentLongitude": "59.609820727102154",
+    "parentLatitude": "36.29075807237844",
+    "parentId": 872
+  },
+ 
+  {
+    "parentLongitude": "59.60279536467778",
+    "parentLatitude": "36.29959078318631",
+    "parentId": 1007
+  },
+  {
+    "parentLongitude": "59.58700765138753",
+    "parentLatitude": "36.34324698901362",
+    "parentId": 1303
+  },
+  {
+    "parentLongitude": "59.587435516973926",
+    "parentLatitude": "36.34352604114272",
+    "parentId": 1370
+  },
+  {
+    "parentLongitude": "59.57903800418795",
+    "parentLatitude": "36.33370120423966", 
+    "parentId": 1404
+  },
+  {
+    "parentLongitude": "59.57411446537498",
+    "parentLatitude": "36.35236968467282",
+    "parentId": 1500
+  },  
+  {
+    "parentLongitude": "59.582949597886696",
+    "parentLatitude": "36.33373100875189",
+    "parentId": 1555
+  },
+  {
+    "parentLongitude": "59.586327303638555",
+    "parentLatitude": "36.34405959869721",
+    "parentId": 1596
+  },
+  {
+    "parentLongitude": "59.5774424",
+    "parentLatitude": "36.3386125",
+    "parentId": 1597
+  },
+  {
+    "parentLongitude": "59.5773437",
+    "parentLatitude": "36.3358049",
+    "parentId": 1643
+  },
+  {
+    "parentLongitude": "59.57861900600932",
+    "parentLatitude": "36.334260986690175",
+    "parentId": 1741
+  },
+  {  
+    "parentLongitude": "59.585244326778",
+    "parentLatitude": "36.340274229101915",
+    "parentId": 1758
+  },
+  {
+    "parentLongitude": "59.58149519280644",
+    "parentLatitude": "36.33554751505753",
+    "parentId": 1766
+  },
+  {
+    "parentLongitude": "59.5962636999324",
+    "parentLatitude": "36.314298126115176",
+    "parentId": 1804
+  },
+  {
+    "parentLongitude": "59.58351001506128",
+    "parentLatitude": "36.339274437049035",
+    "parentId": 1820
+  },
+  {
+    "parentLongitude": "59.57740356460787",
+    "parentLatitude": "36.33376049281396",
+    "parentId": 1892
+  },
+  {
+    "parentLongitude": "59.574575310785924",
+    "parentLatitude": "36.34037233257966",
+    "parentId": 2030
+  },
+  {  
+    "parentLongitude": "59.5746614",
+    "parentLatitude": "36.3664719",
+    "parentId": 2038
+  },
+  {
+    "parentLongitude": "59.578016087548164",
+    "parentLatitude": "36.35287565868908",
+    "parentId": 2055
+  },
+  {
+    "parentLongitude": "59.5806056",
+    "parentLatitude": "36.3441307",
+    "parentId": 2134
+  },
+  {
+    "parentLongitude": "59.5781431",
+    "parentLatitude": "36.3344814",
+    "parentId": 2197
+  },
+  {
+    "parentLongitude": "59.58558103980866",
+    "parentLatitude": "36.34157213589165",
+    "parentId": 2223
+  },
+  {
+    "parentLongitude": "59.5778526", 
+    "parentLatitude": "36.33291",
+    "parentId": 2281
+  },
+  {
+    "parentLongitude": "59.582452068775915",
+    "parentLatitude": "36.34118028764564",
+    "parentId": 2308
+  },
+  {
+    "parentLongitude": "59.57051550809939",
+    "parentLatitude": "36.35199533589268",
+    "parentId": 2370
+  },
+  {
+    "parentLongitude": "59.574506456304256",
+    "parentLatitude": "36.35189682336286",
+    "parentId": 2374
+  },
+  {
+    "parentLongitude": "59.574881357562056",
+    "parentLatitude": "36.35309198949159",
+    "parentId": 2380
+  },
+  {
+    "parentLongitude": "59.582239339140116",
+    "parentLatitude": "36.34145459719492",
+    "parentId": 2390
+  },
+  {
+    "parentLongitude": "59.58380067163725",
+    "parentLatitude": "36.34471358151126",
+    "parentId": 2450
+  },
+  {
+    "parentLongitude": "59.575567013629986",
+    "parentLatitude": "36.340834698824956",
+    "parentId": 2489
+  },
+  {
+    "parentLongitude": "59.58027404819917",
+    "parentLatitude": "36.335466497860025",
+    "parentId": 2533
+  },
+  {
+    "parentLongitude": "59.5740757",
+    "parentLatitude": "36.3450925",
+    "parentId": 2571
+  },
+  {
+    "parentLongitude": "59.57593040917059",
+    "parentLatitude": "36.344488798323155",
+    "parentId": 2575
+  },
+  {
+    "parentLongitude": "59.576436718969084",
+    "parentLatitude": "36.33449228274371",
+    "parentId": 2577
+  },
+  {
+    "parentLongitude": "59.57781705294089",
+    "parentLatitude": "36.333204638155884",
+    "parentId": 2654
+  },
+  {
+    "parentLongitude": "59.6076436",
+    "parentLatitude": "36.3344726",
+    "parentId": 2738
+  },
+  {
+    "parentLongitude": "59.587257744115384",
+    "parentLatitude": "36.3417994475792",
+    "parentId": 2763
+  },
+  {
+    "parentLongitude": "59.582553513598775",
+    "parentLatitude": "36.34108988411694",
+    "parentId": 2963
+  },
+  {
+    "parentLongitude": "59.58436015041183",
+    "parentLatitude": "36.33918422457213",
+    "parentId": 3165
+  },
+  {
+    "parentLongitude": "59.5810913518134",
+    "parentLatitude": "36.34239746828293",
+    "parentId": 3167
+}]
