@@ -1,0 +1,1 @@
+1. Number of final clusters changes a little with "random_state" value in Kmeans. Fix it.
